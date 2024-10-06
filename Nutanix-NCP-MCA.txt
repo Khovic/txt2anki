@@ -59,15 +59,6 @@ Installs MySQL on Ubuntu
 As part of Development, there is a need for an Operator to restart IIS Services for troubleshooting purposes.
 How should the developer add this functionality to the Blueprint?
 A. Add an Execute Task in the Restart Action of the Application Profile.
-B.
-Pass Your Certification With Marks4sure Guarantee
-
-1 of 141
-
-Practice Test
-
-Nutanix - NCP-MCA
-
 B. Add an Execute Task in the Restart Action of the Windows/IIS Service.
 C. Add a Delay Task in the Restart Action of the Windows/IIS Service.
 D. Create an Endpoint for the IIS server and a Runbook that restarts the service.
